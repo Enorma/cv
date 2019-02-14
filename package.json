@@ -1,0 +1,23 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "al fin carajo tengo un portafolio de pendejadas en github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enorma/cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enorma/cv/issues"
+  },
+  "homepage": "https://github.com/Enorma/cv#readme",
+  "devDependencies": {
+    "serve": "^10.1.2"
+  }
+}
